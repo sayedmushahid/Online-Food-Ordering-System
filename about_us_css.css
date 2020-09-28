@@ -1,0 +1,62 @@
+#contact-us{
+            position:relative;
+            height: 100%;
+          }
+#book-form{
+            font-size: 20px;
+            color: 	black;
+            font-family: sans-serif;
+            text-align: center;
+            position:relative;
+            padding-right:20%;
+            font-weight:400;
+                  
+              }
+#about_us{
+
+            position:relative;
+            background: rgba(0, 0 , 0, 0.8);
+            color:white;
+          }
+ #form-group input{
+            width: 300px;
+            height: 20px;
+            border-radius: 10px;
+            opacity: 0.8;
+            padding: 3px;
+          }
+#form-group textarea{
+            border-radius: 10px;
+            opacity: 0.8;
+            padding: 3px;
+            width: 100%;
+          }
+#contact_table{
+    margin-top: -20px;
+}
+#contact_table th{
+    text-align: left;
+    width: 100px;
+}
+#contact_div{
+    height: 100px;
+    padding: 50px;
+    margin-right:70px;
+    position: relative;
+    display: inline-block;
+    float: right;
+    border-left: solid 2px #b4b3b3;
+}
+#about_context{
+    margin-left: 100px;
+    padding: 30px;
+    position: relative;
+    display: inline-block;
+}
+#timings{
+    width: 550px;
+    
+}
+
+
+

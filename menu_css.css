@@ -1,0 +1,31 @@
+#menu_table{
+    margin: 0 auto;
+    position: relative;
+}
+#menu_table td{
+    padding: 20px;
+    text-align: justify;
+    font-size: 18px;
+}
+#menu_type{
+    margin: 0 auto;
+    position: relative;
+    background: rgba(0, 0 , 0, 0.7);
+    height:40px;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    line-height: 35px;
+    padding-left: 7px;
+}
+marquee{
+
+    position: relative;
+    font-size: 22px;
+    
+}
+#dish_pic{
+    width: 400px;
+    height: 250px;
+}
